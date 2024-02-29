@@ -7,14 +7,14 @@
       "leeftijd": 33,
       "actief": true,
       "geboortedatum": "1988-07-14",
-      "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/mcgregor.png",
+      "profielfoto_url": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-bayQrr/main/img/mcgregor.png?token=GHSAT0AAAAAACO3WKNCN25RARKDBKUAU7DKZPATHKQ",
       "gewichtsklasse": "Lichtgewicht",
       "hobbies": ["boksen", "jagen"],
       "trainer": {
         "id": 101,
         "naam": "John Kavanagh",
         "leeftijd": 44,
-        "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/John_Kavanagh.jpg"
+        "profielfoto_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-bayQrr/blob/main/img/John_Kavanagh.jpg?raw=true"
       }
     },
     {
@@ -24,14 +24,14 @@
       "leeftijd": 33,
       "actief": true,
       "geboortedatum": "1988-05-30",
-      "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/nunes.jpg",
+      "profielfoto_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-bayQrr/blob/main/img/nunes.jpg?raw=true",
       "gewichtsklasse": "Bantamgewicht",
       "hobbies": ["jiu-jitsu", "voetbal"],
       "trainer": {
         "id": 102,
         "naam": "Nina Ansaroff",
         "leeftijd": 35,
-        "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/nina.png"
+        "profielfoto_url": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-bayQrr/main/img/nina.png?token=GHSAT0AAAAAACO3WKNCN25RARKDBKUAU7DKZPATHKQ"
       }
     },
     {
@@ -41,14 +41,14 @@
       "leeftijd": 33,
       "actief": false,
       "geboortedatum": "1988-09-20",
-      "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/khabib.jpg",
+      "profielfoto_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-bayQrr/blob/main/img/khabib.jpg?raw=true",
       "gewichtsklasse": "Lichtgewicht",
       "hobbies": ["sambo", "worstelen"],
       "trainer": {
         "id": 103,
         "naam": "Javier Mendez",
         "leeftijd": 57,
-        "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/JavierMendez.jpg"
+        "profielfoto_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-bayQrr/blob/main/img/JavierMendez.jpg?raw=true"
       }
     },
     {
@@ -58,14 +58,14 @@
       "leeftijd": 34,
       "actief": true,
       "geboortedatum": "1987-07-19",
-      "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/jones.png",
+      "profielfoto_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-bayQrr/blob/main/img/jones.png?raw=true",
       "gewichtsklasse": "Licht Zwaargewicht",
       "hobbies": ["kickboksen", "gewichtheffen"],
       "trainer": {
         "id": 104,
         "naam": "Mike Winkeljohn",
         "leeftijd": 55,
-        "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/Mike.png"
+        "profielfoto_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-bayQrr/blob/main/img/Mike.png?raw=true"
       }
     },
     {
@@ -75,14 +75,14 @@
       "leeftijd": 32,
       "actief": true,
       "geboortedatum": "1989-07-22",
-      "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/isreal.png",
+      "profielfoto_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-bayQrr/blob/main/img/isreal.png?raw=true",
       "gewichtsklasse": "Middengewicht",
       "hobbies": ["muay thai", "tekenen"],
       "trainer": {
         "id": 105,
         "naam": "Eugene Bareman",
         "leeftijd": 36,
-        "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/Eugene.jpg"
+        "profielfoto_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-bayQrr/blob/main/img/Eugene.jpg?raw=true"
       }
     },
     {
@@ -92,14 +92,14 @@
       "leeftijd": 33,
       "actief": true,
       "geboortedatum": "1988-03-07",
-      "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/SHEVCHENKO_VALENTINA_L_09-16.png",
+      "profielfoto_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-bayQrr/blob/main/img/SHEVCHENKO_VALENTINA_L_09-16.png?raw=true",
       "gewichtsklasse": "Vlieggewicht",
       "hobbies": ["boksen", "dansen"],
       "trainer": {
         "id": 106,
         "naam": "Pavel Fedotov",
         "leeftijd": 43,
-        "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/Pavel.jpg"
+        "profielfoto_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-bayQrr/blob/main/img/Pavel.jpg?raw=true"
       }
     },
     {
@@ -109,14 +109,14 @@
       "leeftijd": 39,
       "actief": true,
       "geboortedatum": "1982-08-19",
-      "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/stipe.png",
+      "profielfoto_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-bayQrr/blob/main/img/stipe.png?raw=true",
       "gewichtsklasse": "Zwaargewicht",
       "hobbies": ["worstelen", "honkbal"],
       "trainer": {
         "id": 107,
         "naam": "Marcus Marinelli",
         "leeftijd": 45,
-        "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/Marcus.jpg"
+        "profielfoto_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-bayQrr/blob/main/img/Marcus.jpg?raw=true"
       }
     },
     {
@@ -126,14 +126,14 @@
       "leeftijd": 29,
       "actief": true,
       "geboortedatum": "1992-06-29",
-      "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/rose.png",
+      "profielfoto_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-bayQrr/blob/main/img/rose.png?raw=true",
       "gewichtsklasse": "Strogewicht",
       "hobbies": ["karate", "tuinieren"],
       "trainer": {
         "id": 108,
         "naam": "Trevor Wittman",
         "leeftijd": 43,
-        "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/trevor.jpg"
+        "profielfoto_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-bayQrr/blob/main/img/trevor.jpg?raw=true"
       }
     },
     {
@@ -143,14 +143,14 @@
       "leeftijd": 35,
       "actief": true,
       "geboortedatum": "1986-09-05",
-      "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/francis.png",
+      "profielfoto_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-bayQrr/blob/main/img/francis.png?raw=true",
       "gewichtsklasse": "Zwaargewicht",
       "hobbies": ["boksen", "schaatsen"],
       "trainer": {
         "id": 109,
         "naam": "Fernand Lopez",
         "leeftijd": 46,
-        "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/Fernand.jpg"
+        "profielfoto_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-bayQrr/blob/main/img/Fernand.jpg?raw=true"
       }
     },
     {
@@ -160,14 +160,14 @@
       "leeftijd": 30,
       "actief": true,
       "geboortedatum": "1991-12-04",
-      "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/holloway.png",
+      "profielfoto_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-bayQrr/blob/main/img/holloway.png?raw=true",
       "gewichtsklasse": "Vedergewicht",
       "hobbies": ["kickboksen", "surfing"],
       "trainer": {
         "id": 110,
         "naam": "Darren Uyenoyama",
         "leeftijd": 37,
-        "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/Darren.png"
+        "profielfoto_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-bayQrr/blob/main/img/Darren.png?raw=true"
       }
     }
   ]
