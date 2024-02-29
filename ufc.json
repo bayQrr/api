@@ -1,0 +1,174 @@
+{
+  "UfcFighters": [
+    {
+      "id": 1,
+      "naam": "Conor McGregor",
+      "beschrijving": "Conor Anthony McGregor is een Ierse professionele Mixed Martial Artist en professioneel bokser.",
+      "leeftijd": 33,
+      "actief": true,
+      "geboortedatum": "1988-07-14",
+      "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/mcgregor.png",
+      "gewichtsklasse": "Lichtgewicht",
+      "hobbies": ["boksen", "jagen"],
+      "trainer": {
+        "id": 101,
+        "naam": "John Kavanagh",
+        "leeftijd": 44,
+        "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/John_Kavanagh.jpg"
+      }
+    },
+    {
+      "id": 2,
+      "naam": "Amanda Nunes",
+      "beschrijving": "Amanda Lourenço Nunes is een Braziliaanse Mixed Martial Artist.",
+      "leeftijd": 33,
+      "actief": true,
+      "geboortedatum": "1988-05-30",
+      "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/nunes.jpg",
+      "gewichtsklasse": "Bantamgewicht",
+      "hobbies": ["jiu-jitsu", "voetbal"],
+      "trainer": {
+        "id": 102,
+        "naam": "Nina Ansaroff",
+        "leeftijd": 35,
+        "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/nina.png"
+      }
+    },
+    {
+      "id": 3,
+      "naam": "Khabib Nurmagomedov",
+      "beschrijving": "Khabib Abdulmanapovich Nurmagomedov is een voormalige Russische Mixed Martial Artist.",
+      "leeftijd": 33,
+      "actief": false,
+      "geboortedatum": "1988-09-20",
+      "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/khabib.jpg",
+      "gewichtsklasse": "Lichtgewicht",
+      "hobbies": ["sambo", "worstelen"],
+      "trainer": {
+        "id": 103,
+        "naam": "Javier Mendez",
+        "leeftijd": 57,
+        "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/JavierMendez.jpg"
+      }
+    },
+    {
+      "id": 4,
+      "naam": "Jon Jones",
+      "beschrijving": "Jonathan Dwight Jones is een Amerikaanse Mixed Martial Artist.",
+      "leeftijd": 34,
+      "actief": true,
+      "geboortedatum": "1987-07-19",
+      "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/jones.png",
+      "gewichtsklasse": "Licht Zwaargewicht",
+      "hobbies": ["kickboksen", "gewichtheffen"],
+      "trainer": {
+        "id": 104,
+        "naam": "Mike Winkeljohn",
+        "leeftijd": 55,
+        "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/Mike.png"
+      }
+    },
+    {
+      "id": 5,
+      "naam": "Israel Adesanya",
+      "beschrijving": "Israel Mobolaji Adesanya is een Nigeriaans-Nieuw-Zeelandse Mixed Martial Artist.",
+      "leeftijd": 32,
+      "actief": true,
+      "geboortedatum": "1989-07-22",
+      "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/isreal.png",
+      "gewichtsklasse": "Middengewicht",
+      "hobbies": ["muay thai", "tekenen"],
+      "trainer": {
+        "id": 105,
+        "naam": "Eugene Bareman",
+        "leeftijd": 36,
+        "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/Eugene.jpg"
+      }
+    },
+    {
+      "id": 6,
+      "naam": "Valentina Shevchenko",
+      "beschrijving": "Valentina Anatolyevna Shevchenko is een Kirgizisch-Peruaanse Mixed Martial Artist.",
+      "leeftijd": 33,
+      "actief": true,
+      "geboortedatum": "1988-03-07",
+      "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/SHEVCHENKO_VALENTINA_L_09-16.png",
+      "gewichtsklasse": "Vlieggewicht",
+      "hobbies": ["boksen", "dansen"],
+      "trainer": {
+        "id": 106,
+        "naam": "Pavel Fedotov",
+        "leeftijd": 43,
+        "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/Pavel.jpg"
+      }
+    },
+    {
+      "id": 7,
+      "naam": "Stipe Miocic",
+      "beschrijving": "Stipe Miocic is een Amerikaanse Mixed Martial Artist en brandweerman.",
+      "leeftijd": 39,
+      "actief": true,
+      "geboortedatum": "1982-08-19",
+      "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/stipe.png",
+      "gewichtsklasse": "Zwaargewicht",
+      "hobbies": ["worstelen", "honkbal"],
+      "trainer": {
+        "id": 107,
+        "naam": "Marcus Marinelli",
+        "leeftijd": 45,
+        "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/Marcus.jpg"
+      }
+    },
+    {
+      "id": 8,
+      "naam": "Rose Namajunas",
+      "beschrijving": "Rose Gertrude Namajunas is een Amerikaanse Mixed Martial Artist.",
+      "leeftijd": 29,
+      "actief": true,
+      "geboortedatum": "1992-06-29",
+      "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/rose.png",
+      "gewichtsklasse": "Strogewicht",
+      "hobbies": ["karate", "tuinieren"],
+      "trainer": {
+        "id": 108,
+        "naam": "Trevor Wittman",
+        "leeftijd": 43,
+        "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/trevor.jpg"
+      }
+    },
+    {
+      "id": 9,
+      "naam": "Francis Ngannou",
+      "beschrijving": "Francis Zavier Ngannou is een Kameroense Mixed Martial Artist.",
+      "leeftijd": 35,
+      "actief": true,
+      "geboortedatum": "1986-09-05",
+      "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/francis.png",
+      "gewichtsklasse": "Zwaargewicht",
+      "hobbies": ["boksen", "schaatsen"],
+      "trainer": {
+        "id": 109,
+        "naam": "Fernand Lopez",
+        "leeftijd": 46,
+        "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/Fernand.jpg"
+      }
+    },
+    {
+      "id": 10,
+      "naam": "Max Holloway",
+      "beschrijving": "Jerome Max Kelii Holloway is een Amerikaanse Mixed Martial Artist.",
+      "leeftijd": 30,
+      "actief": true,
+      "geboortedatum": "1991-12-04",
+      "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/holloway.png",
+      "gewichtsklasse": "Vedergewicht",
+      "hobbies": ["kickboksen", "surfing"],
+      "trainer": {
+        "id": 110,
+        "naam": "Darren Uyenoyama",
+        "leeftijd": 37,
+        "profielfoto_url": "https://raw.githubusercontent.com/bayQrr/MileStone1/main/img/Darren.png"
+      }
+    }
+  ]
+}
